@@ -5,7 +5,7 @@
 Your first Task consists of 3 steps.
 
 ### Step-1
-In your forked Repository you have to Create a <github-username>.html file like Prakriti-19.html and paste the code given in template.html(replacing with your details).
+In your forked Repository you have to Create a <github-username>.html file like Prakriti-19.html and paste the code given in Template.html (replacing with your details).
   
  ### Step-2
 <b>Now, you have to host it on Github and keep the link of the hosted website for Step-3.</b>
