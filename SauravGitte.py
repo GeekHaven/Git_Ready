@@ -1,2 +1,5 @@
 Q1 "DeathNote" 
 Q2 "It includes high level intelligence,manipulation & its instrumental music is very good"
+Q3 "Tara Sutaria"
+Q4 "Y"
+Q5 "It was very fast & difficult to understand"
