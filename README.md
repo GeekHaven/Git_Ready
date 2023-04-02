@@ -2,7 +2,7 @@
 ## Task 3
 ### Step-1
 - First checkout to the task3 branch.
-- Create a new file named as `github-username.py`. For example, if github username is **raghavgoel25** then file name will be `Adi-R12.py`
+- Create a new file named as `github-username.py`. For example, if github username is **Adi-R12** then file name will be `Adi-R12.py`
 - Now answer the following four questions in the new file. The answer to each question should be present in a different commit with the commit message `Commit <Question No.>`
 - **Ques1-** What is your favourite TV Show/Web Series? </br>
   **Ques2-** Why do you like the show/series? </br>
