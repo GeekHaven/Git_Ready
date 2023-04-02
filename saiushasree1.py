@@ -1,1 +1,2 @@
 shinchan
+Too entertaining
