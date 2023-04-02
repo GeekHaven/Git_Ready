@@ -1,4 +1,5 @@
 print("TV SHOW-- THE BIG BANG THEORY")
 print("THE SHOW IS ENJOYABLE")
-print("CRUSH-- SELENA GOMEZ")
-print("Yes it is possible")
+
+
+print("It was a great experience at the FOSS workshop")
