@@ -1,2 +1,7 @@
 Aman Kumar
+<<<<<<< HEAD
 the first time i saw him i though that he is some guy from south particularly telugu also i though him to be innocent person but he is not like that .
+=======
+he talks to some unknown person whole day and dont even tell me his/her name 
+and also he is short tempered and gets easily offended.  
+>>>>>>> 79aadb9 (second task feature)
