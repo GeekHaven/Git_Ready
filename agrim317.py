@@ -1,1 +1,2 @@
 1. Shingeki no Kyojin
+2. I really like Shingeki no Kyojin because it has a really engaging story that keeps me on the edge of my seat. The characters are complex and the world-building is fantastic. I also love how the show tackles important themes like freedom, humanity, and morality. All in all, it's a really well-crafted and entertaining series that I highly recommend to anyone who loves anime.
