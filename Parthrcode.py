@@ -1,1 +1,2 @@
 print("farzi")
+print("paisa")
