@@ -3,3 +3,9 @@ euphoria
 
 Why do you like the show/series?
 they are a good timepass.
+
+Name your crush(can be from outside the college too).
+benjamin mascolo
+
+Suppose i made an empty folder in my local repository. Can i add and commit this change? Answer with a Y/N.
+Y
